@@ -1,0 +1,7 @@
+[
+  { "id": 1, "physicianId": 1, "name": "Sterling Archer", "kind": "New Patient", "time": "8:00 AM" },
+  { "id": 2, "physicianId": 1, "name": "Cyril Figis", "kind": "Follow-up", "time": "8:30 AM" },
+  { "id": 3, "physicianId": 2, "name": "Ray Gilette", "kind": "Follow-up", "time": "9:00 AM" },
+  { "id": 4, "physicianId": 3, "name": "Lana Kane", "kind": "New Patient", "time": "9:30 AM" },
+  { "id": 5, "physicianId": 3, "name": "Pam Poovey", "kind": "New Patient", "time": "10:00 AM" }
+]
