@@ -1,0 +1,6 @@
+.container-wrap {
+  display: flex;
+  position: relative;
+  max-width: 768px;
+  margin: 30px auto;
+}

@@ -1,0 +1,53 @@
+.physician-wrap {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border-right: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.header-title {
+  color: rgb(122, 122,255);
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.physicians-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.physicians-list p {
+  text-align: start;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.physicians-list ul {
+  width: 100%;
+}
+
+.physicians-list ul li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.physicians-list ul li.active {
+  background-color: rgb(122, 122, 255);
+  color: white;
+}
+
+.action {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.action button {
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(122, 122,255);
+  padding: 5px 15px;
+  border: none;
+  outline: none;
+}

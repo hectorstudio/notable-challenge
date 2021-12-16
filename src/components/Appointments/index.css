@@ -1,0 +1,26 @@
+.appointments-wrap {
+  padding: 10px;
+  width: 60%;
+}
+
+.header {
+  text-align: left;
+}
+
+.appointments-table {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.appointments-table table {
+  width: 100%;
+}
+
+.appointments-table table th, .appointments-table table td {
+  padding: 10px;
+}
+
+.appointments-table table thead {
+  background-color: rgb(122, 122,255);
+  color: white;
+}
